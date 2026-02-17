@@ -25,7 +25,12 @@
 1. 确保已安装Python 3.x
 2. 安装依赖项：
    ```
-   pip install PyQt5 pyserial
+   python3 -m pip install PyQt5 pyserial
+   ```
+
+   或者使用pip3：
+   ```
+   pip3 install PyQt5 pyserial
    ```
 
 ## 使用方法
