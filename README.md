@@ -1,10 +1,10 @@
 # 串口调试助手插件仓库
 
-这是串口调试助手的插件仓库，用于存放各种扩展功能的插件。
+这是调试助手的插件仓库，用于存放各种扩展功能的插件。
 
 ## 主界面仓库
 
-串口调试助手主界面仓库：[https://github.com/monkes/serial-debug-assistant-ui](https://github.com/monkes/serial-debug-assistant-ui)
+调试助手主界面仓库：[https://github.com/monkes/serial-debug-assistant-ui](https://github.com/monkes/serial-debug-assistant-ui)
 
 ## 使用方法
 
